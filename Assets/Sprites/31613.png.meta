@@ -1,0 +1,850 @@
+fileFormatVersion: 2
+guid: de96b9cfc8d7c8141a65be4ef810767b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1777766245979976054
+    second: samus_turn_right_00
+  - first:
+      213: 1322327533463734893
+    second: samus_turn_right_01
+  - first:
+      213: 6523077209738547635
+    second: samus_turn_left_00
+  - first:
+      213: 7553679904732487293
+    second: samus_turn_left_01
+  - first:
+      213: 4354825400012505788
+    second: samus_turn_mid_00
+  - first:
+      213: -2261629960751040048
+    second: samus_turn_left_02
+  - first:
+      213: -6714624621516069110
+    second: samus_turn_right_02
+  - first:
+      213: 4529010193942652351
+    second: samus_run_left_06
+  - first:
+      213: 8447254978449980866
+    second: samus_left_00
+  - first:
+      213: -2098527409587485786
+    second: samus_run_left_02
+  - first:
+      213: -1231940511060434704
+    second: samus_run_left_03
+  - first:
+      213: -7928986067615815331
+    second: samus_run_left_04
+  - first:
+      213: 2261515428769271549
+    second: samus_run_left_05
+  - first:
+      213: -5462231271733263609
+    second: samus_run_right_02
+  - first:
+      213: -2642465859167973883
+    second: samus_run_right_03
+  - first:
+      213: -3167023032810474036
+    second: samus_run_right_04
+  - first:
+      213: 8156423987552512816
+    second: samus_run_right_05
+  - first:
+      213: 2559102216068886047
+    second: samus_run_left_07
+  - first:
+      213: -2599339524388166809
+    second: samus_run_left_08
+  - first:
+      213: 2833644694679009412
+    second: samus_run_left_09
+  - first:
+      213: -9008376585528343937
+    second: samus_run_right_06
+  - first:
+      213: -7719653051750656708
+    second: samus_run_right_07
+  - first:
+      213: -6838575582997153086
+    second: samus_run_right_08
+  - first:
+      213: 6511651155812629866
+    second: samus_run_right_09
+  - first:
+      213: 4616138999571569066
+    second: samus_run_left_01
+  - first:
+      213: 8494939967011653090
+    second: samus_run_left_00
+  - first:
+      213: 4907779106004059078
+    second: samus_run_right_00
+  - first:
+      213: 9000093092300287964
+    second: samus_run_right_01
+  - first:
+      213: -5050521361492486224
+    second: samus_right_00
+  - first:
+      213: 8320711403842688736
+    second: samus_melee_left_00
+  - first:
+      213: -3456973436613723874
+    second: samus_melee_right_00
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: samus_turn_mid_00
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2909
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb20892e0a27f6c30800000000000000
+      internalID: 4354825400012505788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_turn_right_00
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2909
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e0faea40b1457e0800000000000000
+      internalID: -1777766245979976054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_turn_right_01
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2909
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a03dcb2e9d95210800000000000000
+      internalID: 1322327533463734893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_turn_left_00
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2909
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b199e85920a68a50800000000000000
+      internalID: 6523077209738547635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_turn_left_01
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2909
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e169c2adf04d860800000000000000
+      internalID: 7553679904732487293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_turn_left_02
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2909
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9bd0888831d90e0800000000000000
+      internalID: -2261629960751040048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_turn_right_02
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2909
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07617a7b7cd0d2a0800000000000000
+      internalID: -6714624621516069110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_left_00
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2860
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd39adb5adaa3570800000000000000
+      internalID: 8447254978449980866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_left_02
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1599
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a30e10807880e2e0800000000000000
+      internalID: -2098527409587485786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_left_03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1599
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f064ddd1a447eee0800000000000000
+      internalID: -1231940511060434704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_left_04
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1599
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59ecba5e2596f190800000000000000
+      internalID: -7928986067615815331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_left_05
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1599
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe8bd9ec44826f10800000000000000
+      internalID: 2261515428769271549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_right_02
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1599
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7030f4739914234b0800000000000000
+      internalID: -5462231271733263609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_right_03
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1599
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e023d2d43145bd0800000000000000
+      internalID: -2642465859167973883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_right_04
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1599
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5f9ddc4597c04d0800000000000000
+      internalID: -3167023032810474036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_right_05
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1599
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bea8fe660713170800000000000000
+      internalID: 8156423987552512816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_left_06
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1549
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5231296c64ade30800000000000000
+      internalID: 4529010193942652351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_left_07
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1549
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e63b428e1c38320800000000000000
+      internalID: 2559102216068886047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_left_08
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1549
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763e536797a4debd0800000000000000
+      internalID: -2599339524388166809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_left_09
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1549
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488330626d0235720800000000000000
+      internalID: 2833644694679009412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_right_06
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1549
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7203a05931dbf280800000000000000
+      internalID: -9008376585528343937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_right_07
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1549
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35542d23784ed490800000000000000
+      internalID: -7719653051750656708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_right_08
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1549
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca7bc55dbf7811a0800000000000000
+      internalID: -6838575582997153086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_right_09
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1549
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d397bd9380e5a50800000000000000
+      internalID: 6511651155812629866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_left_01
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1499
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa95a4776f1df0040800000000000000
+      internalID: 4616138999571569066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_left_00
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1499
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e58ff154e614e570800000000000000
+      internalID: 8494939967011653090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_right_00
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1499
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3c479281feb1440800000000000000
+      internalID: 4907779106004059078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_run_right_01
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1499
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf6100abf0c6ec70800000000000000
+      internalID: 9000093092300287964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_right_00
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2860
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7d7bd9491f8e9b0800000000000000
+      internalID: -5050521361492486224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_melee_left_00
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2812
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6d590dfea197370800000000000000
+      internalID: 8320711403842688736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: samus_melee_right_00
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2812
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e197da8a9fc5600d0800000000000000
+      internalID: -3456973436613723874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

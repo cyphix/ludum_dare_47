@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PlayerShots
+  - Enemy
+  - Environment
   layers:
   - Default
   - TransparentFX
@@ -15,29 +18,59 @@ TagManager:
   - 
   - 
   - 
+  - Background
   - 
   - 
   - 
+  - Static Environment
   - 
   - 
   - 
+  - Items
+  - 
+  - Player
   - 
   - 
   - 
+  - Player Shots
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PlayerUI
   - 
   - 
   - 
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 931694677
+    locked: 0
+  - name: Effects
+    uniqueID: 39386705
+    locked: 0
+  - name: Tilemap
+    uniqueID: 3462031541
+    locked: 0
+  - name: Items
+    uniqueID: 1607510229
+    locked: 0
+  - name: Environment
+    uniqueID: 2463529307
+    locked: 0
+  - name: Enemies
+    uniqueID: 4235083375
+    locked: 0
+  - name: Player Shots
+    uniqueID: 2523319083
+    locked: 0
+  - name: Player
+    uniqueID: 2251195391
+    locked: 0
+  - name: ForegroundEnvironment
+    uniqueID: 3647102977
+    locked: 0
+  - name: PlayerUI
+    uniqueID: 1082619965
     locked: 0
